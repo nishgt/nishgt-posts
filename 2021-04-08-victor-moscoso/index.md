@@ -22,4 +22,6 @@ Profesyonel başarı, San Francisco'nun dans salonları ve kulüpleri için olu�
 
 Bir sonraki yazımda görüşmek üzere hoşça kalın, sağlıcakla kalın.
 
+Kaynakça: [nishgt-posts archive](https://github.com/nishgt/nishgt-posts/blob/master/2021-04-08-victor-moscoso/kaynakca.txt)
+
 Sümeyye Ütnü
