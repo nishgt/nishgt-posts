@@ -44,6 +44,8 @@ Yeşil rengi doğayı, yenilenmeyi, pozitifliği, Kendini sevmeyi çağrıştır
 
 ![Yeşil Yaprak](./images/yesil.jpg)
 
+## Sarı Rengin Anlamı
+
 Sarı rengi, verimliliği ve üretkenliği olumlu olarak etkiler. Bu özelliği sayesinde, yaratıcı tarafı daha baskın olan kişilerin favori rengidir. Mutluluk ve güneş ile ilişkilidir. Tasarımlarınız da sarıyı kullanmak, mutluluk ve neşe duygusu verebilir. Aynı zamanda geçiciliği temsil eden sarı renginin taksilerde kullanıldığını görürüz.
 
 ## Mor Rengin Anlamı
@@ -63,16 +65,3 @@ Pembe rengi belkide insanlar arasında en sevecen olarak görülen renktir. Ding
 Bugün sizlere renklerin insanlar üzerindeki etkilerin bahsettim. Bir diğer yazımda görüşmek dileğiyle.
 
 Kardelen Büyük
-
-
-
-
-
-
-
-
-
-
-
-
-
